@@ -1,0 +1,11 @@
+{
+  "name": "ntask-api",
+  "version": "1.0.0",
+  "description": "API de gestão de tarefas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gustavo Rodrigues Trizotti",
+  "license": "ISC"
+}
